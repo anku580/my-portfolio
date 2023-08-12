@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.81ca0d2c.css",
+    "main.js": "/react-gh-pages/static/js/main.5ad3e7a1.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-gh-pages/static/js/787.128fc6e9.chunk.js",
+    "static/media/Newyorkstyleguide2.png": "/react-gh-pages/static/media/Newyorkstyleguide2.7f155cb332f657ea3312.png",
+    "static/media/WebmarksDigital.png": "/react-gh-pages/static/media/WebmarksDigital.893e2a7c43122ed8518a.png",
+    "static/media/Orbisa.png": "/react-gh-pages/static/media/Orbisa.3965e0367d483c589547.png",
+    "static/media/bitcompare.png": "/react-gh-pages/static/media/bitcompare.99d78aaaf0e66ed2b325.png",
+    "static/media/icon-black.png": "/react-gh-pages/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/Ekaterine-Mitagvaria.pdf": "/react-gh-pages/static/media/Ekaterine-Mitagvaria.83a74fdb850f51d3c06e.pdf",
+    "static/media/github-pink.svg": "/react-gh-pages/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/codepen-pink.svg": "/react-gh-pages/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "static/media/linkedin-pink.svg": "/react-gh-pages/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.81ca0d2c.css.map": "/react-gh-pages/static/css/main.81ca0d2c.css.map",
+    "main.5ad3e7a1.js.map": "/react-gh-pages/static/js/main.5ad3e7a1.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-gh-pages/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ca0d2c.css",
+    "static/js/main.5ad3e7a1.js"
+  ]
+}
